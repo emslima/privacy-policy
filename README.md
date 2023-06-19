@@ -1,4 +1,4 @@
-# privacy-policy
+# Kombat 11 Kompanion
 This is my first app! A Fight guide APP of Mortal Kombat 11!
 I made it with HMTL + CSS/ Vue.JS and the build process using capacitor.
 
